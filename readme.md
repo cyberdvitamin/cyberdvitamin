@@ -8,7 +8,7 @@
 <br><br>
 
 <div align="center">
- <h4> 🔭 Currently working as Quality Analyst at Electronic Arts in Bucharest, Romania. </h4>
+ <h4> 🔭 Currently working as mid-level Quality Assurance at Electronic Arts in Bucharest, Romania. </h4>
  <h4> 🌱 Currently improving my Python and C# skills. </h4>
  <h4> 💬 Feel free to ask anything! </h4>
  <h4> 📫 You can always contact me here down below: </h4>
