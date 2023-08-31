@@ -17,25 +17,18 @@
     <img src="https://raw.githubusercontent.com/pentr32/pentr32/main/IMAGINE.PNG" />
  </a>
 </div>
-<div style="position:relative;overflow:hidden;padding-top:56.25%;">
-  <iframe
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
-    src="https://www.linkedin.com/embed/feed/update/urn:li:activity:442911204" 
-    frameborder="0" title="LinkedIn">
-  </iframe>
-</div>
 
 
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pentr32&show_icons=true&theme=tokyonight) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberdvitamin&show_icons=true&theme=tokyonight) -->
 
 <br><br><br>
 
 <div align="center">
  <h3> Languages </h3>
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" widht="70" height="70" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" width="70" height="70" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" widht="70" height="70" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" /> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />
  
  <br><br><br>
  
