@@ -1,7 +1,7 @@
  <h1 align="center">Hi there 👋 I'm Mihai</h1>
  
  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pentr32&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=cyberdvitamin&color=blueviolet" />
  </div>
 
 
