@@ -8,12 +8,12 @@
 <br><br>
 
 <div align="center">
- <h4> 🔭 Currently working as software engineer at Harman International in Bucharest, Romania. </h4>
- <h4> 🌱 Currently improving my python skills. </h4>
+ <h4> 🔭 Currently working as Quality Analyst at Electronic Arts in Bucharest, Romania. </h4>
+ <h4> 🌱 Currently improving my Python and C# skills. </h4>
  <h4> 💬 Feel free to ask anything! </h4>
- <h4> 📫 You can always contact mere here down below: </h4>
+ <h4> 📫 You can always contact me here down below: </h4>
 
- <a target="_blank" href="https://www.linkedin.com/in/robert-iulian-zaharia-63758a223/">
+ <a target="_blank" href="https://www.linkedin.com/in/mihai-manescu-442911204/">
     <img src="https://raw.githubusercontent.com/pentr32/pentr32/main/IMAGINE.PNG" />
  </a>
 </div>
