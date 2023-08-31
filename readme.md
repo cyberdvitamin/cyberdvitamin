@@ -6,8 +6,8 @@
 
 
 <br><br>
-
-<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mihai-manescu-442911204" data-version="v1">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="mihai-manescu-442911204" data-version="v1">
  <h4> 🔭 Currently working as mid-level Quality Assurance at Electronic Arts in Bucharest, Romania. </h4>
  <h4> 🌱 Currently improving my Python and C# skills. </h4>
  <h4> 💬 Feel free to ask anything! </h4>
@@ -17,8 +17,9 @@
     <img src="https://raw.githubusercontent.com/cyberdvitamin/cyberdvitamin/main/IMAGINE.PNG" />
  </a>
 
- <a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/mihai-manescu-442911204?trk=profile-badge">Mihai Manescu</a>
+<a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/mihai-manescu-442911204?trk=profile-badge">Mihai Manescu</a>
               
+ 
 </div>
 
 
