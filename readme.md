@@ -16,6 +16,11 @@
  <a target="_blank" href="https://www.linkedin.com/in/mihai-manescu-442911204/">
     <img src="https://raw.githubusercontent.com/pentr32/pentr32/main/IMAGINE.PNG" />
  </a>
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mihai-manescu-442911204" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/mihai-manescu-442911204?trk=profile-badge">Mihai Manescu</a></div>
+              
+
+ 
 </div>
 
 
