@@ -7,20 +7,18 @@
 
 <br><br>
 
-<div align="center">
+<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mihai-manescu-442911204" data-version="v1">
  <h4> 🔭 Currently working as mid-level Quality Assurance at Electronic Arts in Bucharest, Romania. </h4>
  <h4> 🌱 Currently improving my Python and C# skills. </h4>
  <h4> 💬 Feel free to ask anything! </h4>
  <h4> 📫 You can always contact me here down below: </h4>
 
  <a target="_blank" href="https://www.linkedin.com/in/mihai-manescu-442911204/">
-    <img src="https://raw.githubusercontent.com/pentr32/pentr32/main/IMAGINE.PNG" />
+    <img src="https://raw.githubusercontent.com/cyberdvitamin/cyberdvitamin/main/IMAGINE.PNG" />
  </a>
- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mihai-manescu-442911204" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/mihai-manescu-442911204?trk=profile-badge">Mihai Manescu</a></div>
-              
 
- 
+ <a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/mihai-manescu-442911204?trk=profile-badge">Mihai Manescu</a>
+              
 </div>
 
 
