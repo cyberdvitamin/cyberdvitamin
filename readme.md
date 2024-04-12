@@ -14,12 +14,8 @@
  <h4> 📫 You can always contact me here down below: </h4>
 
  <a target="_blank" href="https://www.linkedin.com/in/manescu-mihai/">
-    <img src="https://raw.githubusercontent.com/cyberdvitamin/cyberdvitamin/main/profile.png" />
- </a>
-<a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/manescu-mihai?trk=profile-badge">Mihai Manescu</a>
-              
-
- 
+    <img src="https://raw.githubusercontent.com/cyberdvitamin/cyberdvitamin/main/profile_linkedin.png" />
+ </a> 
 </div>
 
 
