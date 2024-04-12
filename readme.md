@@ -13,7 +13,7 @@
  <h4> 💬 Feel free to ask anything! </h4>
  <h4> 📫 You can always contact me here down below: </h4>
 
- <a target="_blank" href="https://www.linkedin.com/in/mihai-manescu-mihai/">
+ <a target="_blank" href="https://www.linkedin.com/in/manescu-mihai/">
     <img src="https://raw.githubusercontent.com/cyberdvitamin/cyberdvitamin/main/profile.png" />
  </a>
 </div>
