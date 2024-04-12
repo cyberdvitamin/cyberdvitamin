@@ -16,6 +16,10 @@
  <a target="_blank" href="https://www.linkedin.com/in/manescu-mihai/">
     <img src="https://raw.githubusercontent.com/cyberdvitamin/cyberdvitamin/main/profile.png" />
  </a>
+<a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/manescu-mihai?trk=profile-badge">Mihai Manescu</a>
+              
+
+ 
 </div>
 
 
